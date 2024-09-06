@@ -77,6 +77,8 @@ namespace ProductsInventory
             }
             list.ForEach(p => Console.WriteLine(p));
         }
+
+
     }
 }
 
